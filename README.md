@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=150&section=header&text=JangSungJun&fontSize=80" />
 </div>
-blackc300
+
 ### Hi there 👋     
 
  - 🇰🇷  **I'm working in South Korea**
