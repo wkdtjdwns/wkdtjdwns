@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=150&section=header&text=JangSungJun&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=150&section=header&text=JangSungJun&fontSize=80" />
 
 ### Hi there 👋     
 
