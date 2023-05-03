@@ -1,6 +1,10 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=150&section=header&text=JangSungJun&fontSize=80" />
 
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+</div>
+
 ### Hi there 👋     
 
 ### How to reach me? 🤔
