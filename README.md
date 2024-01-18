@@ -12,6 +12,7 @@
 | 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 현재 | Sungil Information High School Java foundation|
 | 성일정보고등학교 방과후 자바 심화 | 2023. 08 ~ 현재 | Sungil Information High School Java middle|
 | 성일정보고등학교 방과후 웹 수업 | 2023. 08 ~ 현재 | Sungil Information High School Web Class|
+| 2023 SFPC 전북 대회 참가 | 2024. 1. 15 ~ 2024. 1. 19 | Python SFPC Competition|
 
 # used at least once 😊
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
