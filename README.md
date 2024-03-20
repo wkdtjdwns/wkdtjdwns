@@ -1,3 +1,10 @@
+![image](https://github.com/dbsrjs/dbsrjs/assets/124150775/41c9f88b-8b8f-4efd-9626-e038b753b984)<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=337edd&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Unity+is+Best!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
+<br><br>
+
+
 # Hi there 👋
 ### 안녕하세요
 ### 유니티와 C#을 주로하지만 다른 분야도 열심히 공부하고 있는 학생입니다.
