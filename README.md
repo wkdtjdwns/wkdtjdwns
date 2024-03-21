@@ -44,8 +44,11 @@
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 # My GitHub stats 👀
-![Jang Seong Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&theme=radical)
-# Top Langs ✔
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8)](https://github.com/wkdtjdwns/github-readme-stats)
+<p align="center">
+  <br>
+  <a href="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=dbsrjs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&animation=twinkling&section=header&fontSize=90"/>
