@@ -14,14 +14,21 @@
 # About me 😁
 | What | When | Where |
 |:--------:|:--------:|:--------:|
-| 성일정보고등학교 소프트웨어과 재학중 | 2023. 03 ~ 현재 | Sungil Information High School
-| 성일정보고등학교 SSS 소프트웨어 게임 개발 스터디 | 2023. 03 ~ 현재 | Sungil Software Game Development Study (SSS)|
-| 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 현재 | Sungil Information High School Java foundation|
-| 성일정보고등학교 방과후 자바 심화 | 2023. 08 ~ 현재 | Sungil Information High School Java middle|
-| 성일정보고등학교 방과후 웹 수업 | 2023. 08 ~ 현재 | Sungil Information High School Web Class|
-| KAIT 2023 SFPC 전북 대회 참가 | 2024. 1. 15 ~ 2024. 1. 19 | KAIT SFPC Jeon Buk Competition (Python)|
+| 성일정보고등학교 소프트웨어과 재학중 | 2023. 03. 2 ~ 현재 | Sungil Information High School |
+| 성일정보고등학교 소프트웨어 게임 개발 스터디 | 2023. 03 ~ 현재 | Sungil Software Study (SSS) |
+| 성일정보고등학교 방과후 자바 기초 | 2023. 05. 11 ~ 07. 19 | Java basic After School Class |
+| 성일정보고등학교 방과후 자바 심화 | 2023. 08. 08 ~ 12. 21 | Java middle After School Class |
+| 성일정보고등학교 방과후 웹 수업 | 2023. 08. 08 ~ 12. 21 | Web After School Class |
+| 삼성 (SW) AI 수업 | 2023. 6. 26 ~ 8. 28 | After School Class |
+| 자율주행 AI 수업 | 2023. 10? | After School Class |
+| 2023 싱가폴 ITE CW국제교류 | 2023. 09. 19 ~ 09. 21 | Sungil Information High School |
+| 게임 개발 기능경기대회 준비 | 2023. 10. 19 ~ 현재 | After School Class |
+| 기능대회준비 자율 팀 프로젝트 협동 활동 | 2024. 8. 28 ~ 11. 24 | After School Class |
+| KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
+| Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
 
-# used at least once 😊
+
+# Language & Tools 😊
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
@@ -29,12 +36,11 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-
-# Programs in use 👍
+<br>
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 # My GitHub stats 👀
