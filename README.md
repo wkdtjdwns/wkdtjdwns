@@ -4,19 +4,18 @@
 
 <br><br>
 
+## Introduction
+<p><strong>성일정보고등학교 소프트웨어개발과 재학중</strong></p>
+<p>유니티와 C#을 주로하지만 다양한 분야에 도전하고 있는 떠돌이 개발자 <strong>장성준</strong>입니다.</p>
 
-# Hi there 👋
-### 안녕하세요
-### 유니티와 C#을 주로하지만 다른 분야도 열심히 공부하고 있는 학생입니다.
-### 아직 실력은 많이 부족하지만 열심히 공부하겠습니다!
-<div>
-<a href = "https://rktrjtrit.notion.site/8f3f211d0cf444398a38d02f06fcf17a?v=1835751ef68347428e3e2d6e1d8174c5&pvs=4"> <img src="https://img.shields.io/badge/Notion -white.svg?style=flat&logo=notion&logoColor=000000"> 
-</a> 
-</div>
+| Game | Etc | Tool | Other |
+| :--------: | :--------: | :------: | :------: |
+| <a href = "https://rktrjtrit.notion.site/567bf116783048dc97555cbf33486337?v=4be13bdffc934b00b00865f481941d06&pvs=74"> <img src="https://img.shields.io/badge/Unity -black.svg?style=flat&logo=Unity&logoColor=FFFFFF"> </a> | <a href = "https://rktrjtrit.notion.site/8f3f211d0cf444398a38d02f06fcf17a?v=1835751ef68347428e3e2d6e1d8174c5&pvs=4"> <img src="https://img.shields.io/badge/Notion -white.svg?style=flat&logo=notion&logoColor=000000"> </a> | <img src="https://img.shields.io/badge/vscode-black.svg?style=flat-square&logo=visualstudiocode&logoColor=007ACC"> | <a href = "https://github.com/wkdtjdwns/Python"> <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white">
+| <a href = "https://rktrjtrit.notion.site/C-1e5d814aefcf4453bbf9263754f3feab"> <img src="https://img.shields.io/badge/csharp -37008B.svg?style=flat&logo=csharp&logoColor=9A6FD2"> </a> | <a href = "https://rktrjtrit-unity.tistory.com/"> <img src="https://img.shields.io/badge/tistory -darkred.svg?style=flat&logo=tistory&logoColor=orange"> </a> | <img src="https://img.shields.io/badge/eclipse -white.svg?style=flat-square&logo=eclipseide&logoColor=2C2255"> | <a href = "https://github.com/wkdtjdwns/Java"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+| <a href = "https://rktrjtrit.notion.site/9f35de02e6c94e539ca82cdaaf9c486c?v=0eb90a79b5be4574b0c3a159f5ffc513"> <img src="https://img.shields.io/badge/Unreal -black.svg?style=flat&logo=unrealengine&logoColor=FFFFFF"> </a> | | <img src="https://img.shields.io/badge/IntelliJ -white.svg?style=flat-square&logo=intellijidea&logoColor=2C2255"> | <a href = "https://github.com/wkdtjdwns/Web"> <img src="https://img.shields.io/badge/Web-black?style=flat-square&logo=html5&logoColor=white">
+| <a href = "https://rktrjtrit.notion.site/C-f799ca162c9444f99b809595f0576e9a?pvs=74"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=500&section=header&animation=twinkling&text=Unity_Is_Best!&fontSize=90"/>
-
-# About me 😁
+## About me
 | What | When | Where |
 |:--------:|:--------:|:--------:|
 | 성일정보고등학교 소프트웨어과 재학중 | 2023. 03. 2 ~ 현재 | Sungil Information High School |
@@ -32,28 +31,10 @@
 | KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
 
-
-# Language & Tools 😊
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-
-# My GitHub stats 👀
+## My GitHub stats
 <p align="center">
   <br>
   <a href="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&animation=twinkling&section=header&fontSize=90"/>
