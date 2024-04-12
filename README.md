@@ -9,6 +9,11 @@
 ### 안녕하세요
 ### 유니티와 C#을 주로하지만 다른 분야도 열심히 공부하고 있는 학생입니다.
 ### 아직 실력은 많이 부족하지만 열심히 공부하겠습니다!
+<div>
+<a href = "https://rktrjtrit.notion.site/8f3f211d0cf444398a38d02f06fcf17a?v=1835751ef68347428e3e2d6e1d8174c5&pvs=4"> <img src="https://img.shields.io/badge/Notion -white.svg?style=flat&logo=notion&logoColor=000000"> 
+</a> 
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=500&section=header&animation=twinkling&text=Unity_Is_Best!&fontSize=90"/>
 
 # About me 😁
