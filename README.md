@@ -1,6 +1,6 @@
 ![image](https://github.com/dbsrjs/dbsrjs/assets/124150775/41c9f88b-8b8f-4efd-9626-e038b753b984)<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=337edd&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Unity+is+Best!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=337edd&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Unity+is+Best!+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br>
 
@@ -41,3 +41,4 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
 </p>
+</div>
