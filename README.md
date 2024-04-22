@@ -30,7 +30,7 @@
 | 2023 싱가폴 ITE CW국제교류 | 2023. 09. 19 ~ 09. 21 | After School Class |
 | 게임 개발 기능경기대회 준비 | 2023. 10. 19 ~ 2024. 03. 29 | After School Class |
 | 2024 지방기능경기대회 게임개발 직종 장려상 | 2024. 04. 04 | MeisterNet |
-| 기능대회준비 자율 팀 프로젝트 협동 활동 | 2024. 8. 28 ~ 11. 24 | After School Class |
+| 기능대회준비 자율 팀 프로젝트 협동 활동 | 2023. 8. 28 ~ 11. 24 | After School Class |
 | KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
 
