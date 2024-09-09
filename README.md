@@ -44,11 +44,10 @@ Click the <b>Notion icon</b>, go to the <b>My Notion page</b>
 | KAIT 2023 SFPC 전북 대회 참가 | 2024. 01. 15 ~ 01. 19 | Home |
 | Devfest Songdo 2023 at 송도 컨벤시아 | 2023. 12. 10 | Songdo Keonbensia |
 
-## My GitHub stats
-<p align="center">
-  <br>
-  <a href="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtjdwns&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br>
-</p>
+## My GitHub Stats
+<br>
+<a href="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wkdtjdwns&theme=algolia"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wkdtjdwns&theme=algolia"></a>
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wkdtjdwns&theme=algolia"></a>
+<br>
 </div>
