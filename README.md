@@ -48,6 +48,6 @@ Click the <b>Notion icon</b>, go to the <b>My Notion page</b>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=wkdtjdwns&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wkdtjdwns&theme=algolia"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wkdtjdwns&theme=algolia"></a>
-<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wkdtjdwns&theme=algolia"></a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wkdtjdwns&theme=algolia"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wkdtjdwns&theme=algolia"></a>
 <br>
 </div>
