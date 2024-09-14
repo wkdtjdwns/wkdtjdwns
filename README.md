@@ -4,7 +4,6 @@
 
 <img src="https://github.com/wkdtjdwns/Legend-Noticon-Tool/blob/main/greet/penguin-hello.gif?raw=true" width="300" height="300" alt="penguin-hello">
 <img src="https://github.com/wkdtjdwns/Legend-Noticon-Tool/blob/main/greet/penguin-hello.gif?raw=true" width="300" height="300" alt="penguin-hello">
-<img src="https://github.com/wkdtjdwns/Legend-Noticon-Tool/blob/main/greet/penguin-hello.gif?raw=true" width="300" height="300" alt="penguin-hello">
 
 <br>
 <br>
